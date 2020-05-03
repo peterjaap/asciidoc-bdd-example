@@ -1,0 +1,14 @@
+{
+    "name": "Todolist CLI app",
+    "description": "An example CLI app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Peter Jaap Blaakmeer"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^6.11",
+        "symfony/console": "^5.0"
+    }
+}
